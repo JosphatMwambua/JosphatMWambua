@@ -1,6 +1,6 @@
 # Hello, I’m Josphat Mutua Wambua
 
-I am a mathematician and incoming Ph.D. student in Mathematical Sciences at Clemson University. My interests lie at the intersection of computational mathematics, numerical optimization, statistics, and data science.
+I am a mathematician and a Ph.D. student in Mathematical Sciences at Clemson University. My interests lie at the intersection of computational mathematics, numerical optimization, statistics, and data science.
 
 ## Research interests
 
